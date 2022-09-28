@@ -19,7 +19,7 @@ if (process.env.NODE_ENV === 'production') {
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
-        origin: ['http://127.0.0.1:8080', 'http://localhost:8080','http://127.0.0.1:3000', 'http://localhost:3000'],
+        origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     }
     app.use(cors(corsOptions))
@@ -27,13 +27,13 @@ if (process.env.NODE_ENV === 'production') {
 
 const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
-const toyRoutes = require('./api/toy/toy.routes')
+const stationRoutes = require('./api/station/station.routes')
 
 
 // routes
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
-app.use('/api/toy', toyRoutes)
+app.use('/api/station', stationRoutes)
 // app.get('/', (req, res) => res.send('Hello!'))
 
 app.get('/**', (req, res) => {

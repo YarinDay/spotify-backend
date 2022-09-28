@@ -5,7 +5,8 @@ module.exports = {
     getUser,
     getUsers,
     deleteUser,
-    updateUser
+    updateUser,
+    addUser
 }
 
 async function getUser(req, res) {
@@ -38,6 +39,17 @@ async function deleteUser(req, res) {
     } catch (err) {
         logger.error('Failed to delete user', err)
         res.status(500).send({ err: 'Failed to delete user' })
+    }
+}
+
+async function addUser(req, res) {
+    try {
+        const user = req.body
+        const addedUser = await userService.add(user)
+        res.json(addedUser)
+    } catch (err) {
+        logger.error('Failed to add user', err)
+        res.status(500).send({ err: 'Failed to add user' })
     }
 }
 
