@@ -25,6 +25,8 @@ async function getStations(req, res) {
         logger.debug('Getting Stations')
         var queryParams = req.query
         const stations = await stationService.query(queryParams)
+        console.log('stations', stations)
+        
         res.json(stations)
     } catch (err) {
         logger.error('Failed to get stations', err)
