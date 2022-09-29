@@ -61,7 +61,6 @@ async function getStationById(req, res) {
 }
 
 async function updateStation(req, res) {
-    console.log('got heree')
     try {
         const station = req.body
         const updatedStation = await stationService.update(station)

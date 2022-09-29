@@ -29,9 +29,7 @@ async function signup({ username, password, fullname }) {
 
     logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
     if (!username || !password || !fullname) return Promise.reject('Missing required signup information')
-    console.log(username)
     const userExist = await userService.getByUsername(username)
-    console.log('asdasd', userExist)
     logger.debug(`userExist ${userExist}`)
     if (userExist) return Promise.reject('Username already taken')
     const hash = await bcrypt.hash(password, saltRounds)
@@ -50,7 +48,6 @@ function validateToken(loginToken) {
         return loggedinUser
 
     } catch (err) {
-        console.log('Invalid login token')
     }
     return null
 }
