@@ -40,9 +40,7 @@ async function query(filterBy) {
 async function add(station) {
     try {
         const collection = await dbService.getCollection('station')
-        console.log('station', station);
         const addedStation = await collection.insertOne(station)
-        console.log(addedStation)
         return addedStation
     } catch (err) {
         logger.error('Cannot insert station', err)
@@ -57,7 +55,6 @@ async function update(station) {
         const collection = await dbService.getCollection('station')
         await collection.updateOne({ _id: id }, { $set: { ...station } })
 
-        console.log('asdasdasdadasdasdasdasd');
         return station
     } catch (err) {
         logger.error(`cannot update station ${station._id}`, err)
