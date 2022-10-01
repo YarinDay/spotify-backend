@@ -3593,3 +3593,518 @@
 10/1/2022, 8:33:24 PM - DEBUG - Getting Stations
 10/1/2022, 8:33:24 PM - DEBUG - Getting Stations
 10/1/2022, 8:33:24 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:02 PM - INFO - Server is running on port: 3030
+10/1/2022, 10:01:19 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:01:20 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:20 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:01:21 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:22 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:22 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:23 PM - DEBUG - Getting Stations
+10/1/2022, 10:01:30 PM - DEBUG - Getting Stations
+10/1/2022, 10:02:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:02:35 PM - DEBUG - Getting Stations
+10/1/2022, 10:02:35 PM - DEBUG - Getting Stations
+10/1/2022, 10:02:40 PM - DEBUG - Getting Stations
+10/1/2022, 10:03:49 PM - DEBUG - Getting Stations
+10/1/2022, 10:03:50 PM - DEBUG - Getting Stations
+10/1/2022, 10:03:50 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:27 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:35 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:40 PM - DEBUG - Getting Stations
+10/1/2022, 10:04:43 PM - DEBUG - Getting Stations
+10/1/2022, 10:06:00 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:06:00 PM - DEBUG - Getting Stations
+10/1/2022, 10:06:01 PM - DEBUG - Getting Stations
+10/1/2022, 10:06:13 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:06:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:06:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:09:32 PM - INFO - socket update-station | {"_id":"6334ac1dd4e11f1659f820fe","name":"Honestly, Nevermind","tags":["Honestly, Nevermind","Pop","HardCoded","All"],"createdBy":{"_id":"32erdwwfg23rewf","fullname":"Drake","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","artistImg":"https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9"},"likedByUsers":["{minimal-user}","{minimal-user}"],"songs":[{"id":"'t4retrt5gter","title":"Currents","url":"1puG2H1QOBA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"250"},{"id":"qweartfhgsxfdc","title":"Text Go Green","url":"kFXHPfI2JoI","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"195"},{"id":"g31vewrd","title":"Sticky","url":"AnZcWgXZOKM","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"211"},{"id":"qf3ewgsret5r","title":"Flight's Booked","url":"hb24kZ0fiEA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"424"},{"id":"231eqwrf","title":"Falling Back","url":"rJi7GobzRgY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"200"},{"id":"2t34fvht23v","title":"Massive","url":"ay1l_u6vltY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"232","_id":"stoBX"},{"id":"utjyrhtg1ss2b","title":"A Keeper","url":"RaskP_FC9VA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"400"},{"id":"utasdasqdb","title":"Calling My Name","url":"fhumS5MsRyE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"cqtbvwy34vwt","title":"Overdrive","url":"p53kGYHvDn0","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"242"},{"id":"qctwvh54vq3trgwv","title":"Tie That Binds","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"yutmyrntbfrs2","title":"Down Hill","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"},{"id":"cqt4tvcrwqqehgv","title":"Jimmy Cooks","url":"V7UgPHjN9qE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"}],"addedAt":"166655343521"}
+10/1/2022, 10:09:53 PM - DEBUG - Getting Stations
+10/1/2022, 10:09:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:10:06 PM - DEBUG - Getting Stations
+10/1/2022, 10:10:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:10:50 PM - DEBUG - Getting Stations
+10/1/2022, 10:10:50 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:10:51 PM - DEBUG - Getting Stations
+10/1/2022, 10:10:53 PM - DEBUG - Getting Stations
+10/1/2022, 10:11:00 PM - DEBUG - Getting Stations
+10/1/2022, 10:11:09 PM - DEBUG - Getting Stations
+10/1/2022, 10:11:10 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:11:11 PM - DEBUG - Getting Stations
+10/1/2022, 10:11:13 PM - DEBUG - Getting Stations
+10/1/2022, 10:12:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:12:25 PM - DEBUG - Getting Stations
+10/1/2022, 10:12:33 PM - DEBUG - Getting Stations
+10/1/2022, 10:12:35 PM - DEBUG - Getting Stations
+10/1/2022, 10:12:42 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:29 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:29 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:29 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:30 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:40 PM - DEBUG - Getting Stations
+10/1/2022, 10:16:42 PM - DEBUG - Getting Stations
+10/1/2022, 10:18:29 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:18:30 PM - DEBUG - Getting Stations
+10/1/2022, 10:18:30 PM - DEBUG - Getting Stations
+10/1/2022, 10:18:33 PM - DEBUG - Getting Stations
+10/1/2022, 10:19:02 PM - DEBUG - Getting Stations
+10/1/2022, 10:21:01 PM - DEBUG - Getting Stations
+10/1/2022, 10:21:06 PM - DEBUG - Getting Stations
+10/1/2022, 10:21:08 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:21:08 PM - DEBUG - Getting Stations
+10/1/2022, 10:21:09 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:07 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:21 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:23 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:39 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:41 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:22:41 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:42 PM - DEBUG - Getting Stations
+10/1/2022, 10:22:49 PM - DEBUG - Getting Stations
+10/1/2022, 10:24:46 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:24:46 PM - DEBUG - Getting Stations
+10/1/2022, 10:24:46 PM - DEBUG - Getting Stations
+10/1/2022, 10:24:50 PM - DEBUG - Getting Stations
+10/1/2022, 10:25:27 PM - DEBUG - Getting Stations
+10/1/2022, 10:25:33 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:25:33 PM - DEBUG - Getting Stations
+10/1/2022, 10:25:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:25:37 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:42 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:44 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:26:45 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:45 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:52 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:53 PM - DEBUG - Getting Stations
+10/1/2022, 10:26:53 PM - DEBUG - Getting Stations
+10/1/2022, 10:28:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:29:55 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:29:56 PM - DEBUG - Getting Stations
+10/1/2022, 10:29:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:29:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:29:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:31:55 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:31:56 PM - DEBUG - Getting Stations
+10/1/2022, 10:31:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:31:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:31:57 PM - DEBUG - Getting Stations
+10/1/2022, 10:32:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:32:24 PM - DEBUG - Getting Stations
+10/1/2022, 10:32:25 PM - DEBUG - Getting Stations
+10/1/2022, 10:32:25 PM - DEBUG - Getting Stations
+10/1/2022, 10:34:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:34:15 PM - DEBUG - Getting Stations
+10/1/2022, 10:34:16 PM - DEBUG - Getting Stations
+10/1/2022, 10:34:16 PM - DEBUG - Getting Stations
+10/1/2022, 10:34:54 PM - DEBUG - Getting Stations
+10/1/2022, 10:35:06 PM - DEBUG - Getting Stations
+10/1/2022, 10:36:29 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:01 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:02 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:03 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:03 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:05 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:09 PM - DEBUG - Getting Stations
+10/1/2022, 10:39:17 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:16 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:18 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:23 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:24 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:28 PM - DEBUG - Getting Stations
+10/1/2022, 10:41:41 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:10 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:13 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:42:13 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:16 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:18 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:20 PM - DEBUG - Getting Stations
+10/1/2022, 10:42:44 PM - DEBUG - Getting Stations
+10/1/2022, 10:43:00 PM - DEBUG - Getting Stations
+10/1/2022, 10:43:06 PM - DEBUG - Getting Stations
+10/1/2022, 10:43:18 PM - DEBUG - Getting Stations
+10/1/2022, 10:43:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:43:48 PM - DEBUG - Getting Stations
+10/1/2022, 10:46:06 PM - DEBUG - Getting Stations
+10/1/2022, 10:46:08 PM - DEBUG - Getting Stations
+10/1/2022, 10:46:26 PM - DEBUG - Getting Stations
+10/1/2022, 10:46:28 PM - DEBUG - Getting Stations
+10/1/2022, 10:46:30 PM - DEBUG - Getting Stations
+10/1/2022, 10:47:19 PM - DEBUG - Getting Stations
+10/1/2022, 10:47:50 PM - DEBUG - Getting Stations
+10/1/2022, 10:48:03 PM - INFO - Socket disconnected [id: undefined]
+10/1/2022, 10:48:04 PM - DEBUG - Getting Stations
+10/1/2022, 10:48:04 PM - DEBUG - Getting Stations
+10/1/2022, 10:48:08 PM - DEBUG - Getting Stations
+10/1/2022, 10:48:36 PM - DEBUG - Getting Stations
+10/1/2022, 10:48:43 PM - DEBUG - Getting Stations
+10/1/2022, 10:49:32 PM - DEBUG - Getting Stations
+10/1/2022, 10:54:18 PM - DEBUG - Getting Stations
+10/1/2022, 10:54:36 PM - DEBUG - Getting Stations
+10/1/2022, 10:54:40 PM - DEBUG - Getting Stations
+10/1/2022, 10:54:44 PM - DEBUG - Getting Stations
+10/1/2022, 10:54:45 PM - DEBUG - Getting Stations
+10/1/2022, 10:55:08 PM - DEBUG - Getting Stations
+10/1/2022, 10:55:22 PM - DEBUG - Getting Stations
+10/1/2022, 10:55:34 PM - DEBUG - Getting Stations
+10/1/2022, 10:55:42 PM - DEBUG - Getting Stations
+10/1/2022, 10:55:44 PM - DEBUG - Getting Stations
+10/1/2022, 10:56:12 PM - DEBUG - Getting Stations
+10/1/2022, 10:56:21 PM - DEBUG - Getting Stations
+10/1/2022, 10:56:27 PM - DEBUG - Getting Stations
+10/1/2022, 10:57:00 PM - DEBUG - Getting Stations
+10/1/2022, 10:57:09 PM - DEBUG - Getting Stations
+10/1/2022, 10:57:14 PM - DEBUG - Getting Stations
+10/1/2022, 10:57:33 PM - DEBUG - Getting Stations
+10/1/2022, 10:59:04 PM - INFO - socket update-station | {"_id":"6338975dbd687bcf4d7d5308","name":"Israeli Pop","songs":[{"id":"ZOf7aMbzQAM","url":"ZOf7aMbzQAM","imgUrl":"https://i.ytimg.com/vi/ZOf7aMbzQAM/hqdefault.jpg","title":"נועה קירל - פנתרה ","songDuration":[184],"addedAt":1664654087280},{"id":"jP4XtOEs-1s","url":"jP4XtOEs-1s","imgUrl":"https://i.ytimg.com/vi/jP4XtOEs-1s/hqdefault.jpg","title":"רביד פלוטניק - כפרה שלי / Ravid Plotnik - Kapara Sheli","songDuration":[267],"addedAt":1664653294000},{"id":"qALEkPoY-Hg","url":"qALEkPoY-Hg","imgUrl":"https://i.ytimg.com/vi/qALEkPoY-Hg/hqdefault.jpg","title":"טונה ויסמין מועלם - סהרה ","songDuration":[272],"addedAt":1664653368815},{"id":"qTz0qLtY1IQ","url":"qTz0qLtY1IQ","imgUrl":"https://i.ytimg.com/vi/qTz0qLtY1IQ/hqdefault.jpg","title":"עדן חסון - מחרוזת מדליקה לי הכל &amp; כולנו רוצים אהבה | LIVE היכל מנורה 360","songDuration":[440],"addedAt":1664653388641},{"id":"oIOqX_zZagY","url":"oIOqX_zZagY","imgUrl":"https://i.ytimg.com/vi/oIOqX_zZagY/hqdefault.jpg","title":"עומר אדם וטונה - סחרחורת &amp; בדד | פסטיבל התמר 2021","songDuration":[359],"addedAt":1664653401401},{"id":"2FNJNnV9DxM","url":"2FNJNnV9DxM","imgUrl":"https://i.ytimg.com/vi/2FNJNnV9DxM/hqdefault.jpg","title":"אודיה &amp; אושר כהן -  אוהבת אותך בטעות | LIVE  מקיסריה","songDuration":[204],"addedAt":1664653418742},{"id":"njV1AqwlMgI","url":"njV1AqwlMgI","imgUrl":"https://i.ytimg.com/vi/njV1AqwlMgI/hqdefault.jpg","title":"עדן חסון, אגם בוחבוט, שחר סאול - באתי להציל אותך | LIVE - היכל מנורה.","songDuration":[220],"addedAt":1664654070110},{"id":"AwjhMPbeD0Y","url":"AwjhMPbeD0Y","imgUrl":"https://i.ytimg.com/vi/AwjhMPbeD0Y/hqdefault.jpg","title":"עומר אדם - חצי דפוק ","songDuration":[178],"addedAt":1664654089032},{"id":"zSsaDRNHWtk","url":"zSsaDRNHWtk","imgUrl":"https://i.ytimg.com/vi/zSsaDRNHWtk/hqdefault.jpg","title":"עדן חסון - שבועיים | Eden Hason - Shvuaim","songDuration":[205],"addedAt":1664654110114},{"id":"x7w9zne2OG4","url":"x7w9zne2OG4","imgUrl":"https://i.ytimg.com/vi/x7w9zne2OG4/hqdefault.jpg","title":"אגם בוחבוט &amp; גל אדם - עברו חודשיים","songDuration":[165],"addedAt":1664654115280},{"id":"lgkKvOEo8q4","url":"lgkKvOEo8q4","imgUrl":"https://i.ytimg.com/vi/lgkKvOEo8q4/hqdefault.jpg","title":"אושר כהן - כל הזמן אומרת","songDuration":[214],"addedAt":1664654136611},{"id":"a4Sd7aazEw4","url":"a4Sd7aazEw4","imgUrl":"https://i.ytimg.com/vi/a4Sd7aazEw4/hqdefault.jpg","title":"עדן חסון - מתפוצץ לי הראש  | Eden Hason - Mitpotzetz Li Harosh","songDuration":[184],"addedAt":1664654146435},{"id":"jE_wnR1NiiE","url":"jE_wnR1NiiE","imgUrl":"https://i.ytimg.com/vi/jE_wnR1NiiE/hqdefault.jpg","title":"עדן חסון ועילאי אלמקייס - מטפסים על הקירות","songDuration":[201],"addedAt":1664654240078},{"id":"n5illsgvqKA","url":"n5illsgvqKA","imgUrl":"https://i.ytimg.com/vi/n5illsgvqKA/hqdefault.jpg","title":"בניה ברבי - קרן שמש","songDuration":[228],"addedAt":1664654255604}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":""}}
+10/1/2022, 10:59:47 PM - DEBUG - Getting Stations
+10/1/2022, 10:59:47 PM - DEBUG - Getting Stations
+10/1/2022, 10:59:47 PM - DEBUG - Getting Stations
+10/1/2022, 10:59:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:00:13 PM - DEBUG - Getting Stations
+10/1/2022, 11:00:13 PM - DEBUG - Getting Stations
+10/1/2022, 11:00:14 PM - DEBUG - Getting Stations
+10/1/2022, 11:00:24 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:08 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:08 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:08 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:09 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:36 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:37 PM - INFO - socket update-station | {"_id":"63389743a2c8752cc5e9ff62","name":"R&B Mix","songs":[{"id":"R8iqEfje7Aw","url":"R8iqEfje7Aw","imgUrl":"https://i.ytimg.com/vi/R8iqEfje7Aw/hqdefault.jpg","title":"Fantasia - When I See U","songDuration":[217],"addedAt":1664653184033},{"id":"qJSVEeuTwPU","url":"qJSVEeuTwPU","imgUrl":"https://i.ytimg.com/vi/qJSVEeuTwPU/hqdefault.jpg","title":"SOLANGE - DON&#39;T TOUCH MY HAIR ","songDuration":[260],"addedAt":1664653210614},{"id":"n7PVhQPaFNY","url":"n7PVhQPaFNY","imgUrl":"https://i.ytimg.com/vi/n7PVhQPaFNY/hqdefault.jpg","title":"Miguel - All I Want Is You  ft. J. Cole","songDuration":[268],"addedAt":1664653244014},{"id":"tBofx9gNjms","url":"tBofx9gNjms","imgUrl":"https://i.ytimg.com/vi/tBofx9gNjms/hqdefault.jpg","title":"Girl","songDuration":[225],"addedAt":1664653274865},{"id":"gUPrnu3BEU8","url":"gUPrnu3BEU8","imgUrl":"https://i.ytimg.com/vi/gUPrnu3BEU8/hqdefault.jpg","title":"Ashanti - Foolish","songDuration":[265],"addedAt":1664653289748},{"id":"AUJkLr98nN4","url":"AUJkLr98nN4","imgUrl":"https://i.ytimg.com/vi/AUJkLr98nN4/hqdefault.jpg","title":"U Know What&#39;s Up","songDuration":[242],"addedAt":1664653323998},{"id":"raWSH1KrgFI","url":"raWSH1KrgFI","imgUrl":"https://i.ytimg.com/vi/raWSH1KrgFI/hqdefault.jpg","title":"Slow Jamz","songDuration":[317],"addedAt":1664653354608},{"id":"Hybj2Gfk6G8","url":"Hybj2Gfk6G8","imgUrl":"https://i.ytimg.com/vi/Hybj2Gfk6G8/hqdefault.jpg","title":"Keyshia Cole - Let It Go  ft. Missy Elliott, Lil&#39; Kim","songDuration":[262],"addedAt":1664653412336}],"tags":["Rnb"],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"https://seed-mix-image.spotifycdn.com/v6/img/r_and_b/2h93pZq0e7k5yf4dywlkpM/en/large"}}
+10/1/2022, 11:01:38 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:51 PM - DEBUG - Getting Stations
+10/1/2022, 11:01:53 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:00 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:43 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:58 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:58 PM - DEBUG - Getting Stations
+10/1/2022, 11:02:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:02 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:06 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:06 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:07 PM - DEBUG - Getting Stations
+10/1/2022, 11:03:40 PM - DEBUG - Getting Stations
+10/1/2022, 11:04:04 PM - DEBUG - Getting Stations
+10/1/2022, 11:04:33 PM - DEBUG - Getting Stations
+10/1/2022, 11:04:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:04:53 PM - DEBUG - Getting Stations
+10/1/2022, 11:04:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:07 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:14 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:27 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:35 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:42 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:05:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:11 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:18 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:26 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:06:52 PM - DEBUG - Getting Stations
+10/1/2022, 11:09:32 PM - DEBUG - Getting Stations
+10/1/2022, 11:09:56 PM - INFO - socket update-station | {"_id":"63389d1bbd687bcf4d7d530a","name":"Old School","songs":[{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664654675162},{"id":"cDMhlvbOFaM","url":"cDMhlvbOFaM","imgUrl":"https://i.ytimg.com/vi/cDMhlvbOFaM/hqdefault.jpg","title":"50 Cent - 21 Questions  ft. Nate Dogg","songDuration":[259],"addedAt":1664654683287},{"id":"Do5MMmEygsY","url":"Do5MMmEygsY","imgUrl":"https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg","title":"2Pac - Ghetto Gospel","songDuration":[266],"addedAt":1664654694381},{"id":"UDApZhXTpH8","url":"UDApZhXTpH8","imgUrl":"https://i.ytimg.com/vi/UDApZhXTpH8/hqdefault.jpg","title":"50 Cent - P.I.M.P.  ft. Snoop Dogg, G-Unit","songDuration":[299],"addedAt":1664654700929},{"id":"bFLow5StvvU","url":"bFLow5StvvU","imgUrl":"https://i.ytimg.com/vi/bFLow5StvvU/hqdefault.jpg","title":"50 Cent - Window Shopper ","songDuration":[227],"addedAt":1664654709202},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664654715914},{"id":"eXvBjCO19QY","url":"eXvBjCO19QY","imgUrl":"https://i.ytimg.com/vi/eXvBjCO19QY/hqdefault.jpg","title":"2Pac - Changes ft. Talent","songDuration":[271],"addedAt":1664654722831},{"id":"yUZeZNxiD-M","url":"yUZeZNxiD-M","imgUrl":"https://i.ytimg.com/vi/yUZeZNxiD-M/hqdefault.jpg","title":"Get Low","songDuration":[335],"addedAt":1664654728798},{"id":"UZckXxpGNa8","url":"UZckXxpGNa8","imgUrl":"https://i.ytimg.com/vi/UZckXxpGNa8/hqdefault.jpg","title":"T.I. - Bring Em Out ","songDuration":[200],"addedAt":1664654737196},{"id":"XbGs_qK2PQA","url":"XbGs_qK2PQA","imgUrl":"https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg","title":"Eminem - Rap God ","songDuration":[370],"addedAt":1664654981198},{"id":"pZG7IK99OvI","url":"pZG7IK99OvI","imgUrl":"https://i.ytimg.com/vi/pZG7IK99OvI/hqdefault.jpg","title":"Ludacris - Stand Up  ft. Shawnna","songDuration":[215],"addedAt":1664654746421},{"id":"fWCZse1iwE0","url":"fWCZse1iwE0","imgUrl":"https://i.ytimg.com/vi/fWCZse1iwE0/hqdefault.jpg","title":"Snoop Dogg - Gin And Juice","songDuration":[265],"addedAt":1664654755843},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664654763316},{"id":"1WkvomHrfVo","url":"1WkvomHrfVo","imgUrl":"https://i.ytimg.com/vi/1WkvomHrfVo/hqdefault.jpg","title":"Ice Cube - Gangsta Rap Made Me Do It","songDuration":[414],"addedAt":1664654773178},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664654779046},{"id":"nCkblLhs0-4","url":"nCkblLhs0-4","imgUrl":"https://i.ytimg.com/vi/nCkblLhs0-4/hqdefault.jpg","title":"Ice Cube - Ain&#39;t Got No Haters ft. Too Short","songDuration":[212],"addedAt":1664654796157},{"id":"h4UqMyldS7Q","url":"h4UqMyldS7Q","imgUrl":"https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg","title":"Ice Cube - It Was A Good Day","songDuration":[313],"addedAt":1664654802216},{"id":"_FE194VN6c4","url":"_FE194VN6c4","imgUrl":"https://i.ytimg.com/vi/_FE194VN6c4/hqdefault.jpg","title":"Snoop Dogg - Beautiful  ft. Pharrell Williams","songDuration":[322],"addedAt":1664654814885},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664654974828},{"id":"eJO5HU_7_1w","url":"eJO5HU_7_1w","imgUrl":"https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg","title":"Eminem - The Real Slim Shady ","songDuration":[269],"addedAt":1664654978511},{"id":"RjrA-slMoZ4","url":"RjrA-slMoZ4","imgUrl":"https://i.ytimg.com/vi/RjrA-slMoZ4/hqdefault.jpg","title":"Eminem &amp; Snoop Dogg - From The D 2 The LBC [Official Music Video]","songDuration":[287],"addedAt":1664654979917},{"id":"uelHwf8o7_U","url":"uelHwf8o7_U","imgUrl":"https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg","title":"Eminem - Love The Way You Lie ft. Rihanna","songDuration":[267],"addedAt":1664654984691},{"id":"sNPnbI1arSE","url":"sNPnbI1arSE","imgUrl":"https://i.ytimg.com/vi/sNPnbI1arSE/hqdefault.jpg","title":"Eminem - My Name Is ","songDuration":[249],"addedAt":1664654990759},{"id":"U1th94xR694","url":"U1th94xR694","imgUrl":"https://i.ytimg.com/vi/U1th94xR694/hqdefault.jpg","title":"Eminem - Lose Yourself[1080p].","songDuration":[295],"addedAt":1664654991690}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664654962/biagpt2urilwzoem4nrn.jpg"}}
+10/1/2022, 11:09:57 PM - INFO - socket update-station | {"_id":"63389d1bbd687bcf4d7d530a","name":"Old School","songs":[{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664654675162},{"id":"cDMhlvbOFaM","url":"cDMhlvbOFaM","imgUrl":"https://i.ytimg.com/vi/cDMhlvbOFaM/hqdefault.jpg","title":"50 Cent - 21 Questions  ft. Nate Dogg","songDuration":[259],"addedAt":1664654683287},{"id":"Do5MMmEygsY","url":"Do5MMmEygsY","imgUrl":"https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg","title":"2Pac - Ghetto Gospel","songDuration":[266],"addedAt":1664654694381},{"id":"UDApZhXTpH8","url":"UDApZhXTpH8","imgUrl":"https://i.ytimg.com/vi/UDApZhXTpH8/hqdefault.jpg","title":"50 Cent - P.I.M.P.  ft. Snoop Dogg, G-Unit","songDuration":[299],"addedAt":1664654700929},{"id":"bFLow5StvvU","url":"bFLow5StvvU","imgUrl":"https://i.ytimg.com/vi/bFLow5StvvU/hqdefault.jpg","title":"50 Cent - Window Shopper ","songDuration":[227],"addedAt":1664654709202},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664654715914},{"id":"eXvBjCO19QY","url":"eXvBjCO19QY","imgUrl":"https://i.ytimg.com/vi/eXvBjCO19QY/hqdefault.jpg","title":"2Pac - Changes ft. Talent","songDuration":[271],"addedAt":1664654722831},{"id":"yUZeZNxiD-M","url":"yUZeZNxiD-M","imgUrl":"https://i.ytimg.com/vi/yUZeZNxiD-M/hqdefault.jpg","title":"Get Low","songDuration":[335],"addedAt":1664654728798},{"id":"UZckXxpGNa8","url":"UZckXxpGNa8","imgUrl":"https://i.ytimg.com/vi/UZckXxpGNa8/hqdefault.jpg","title":"T.I. - Bring Em Out ","songDuration":[200],"addedAt":1664654737196},{"id":"XbGs_qK2PQA","url":"XbGs_qK2PQA","imgUrl":"https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg","title":"Eminem - Rap God ","songDuration":[370],"addedAt":1664654981198},{"id":"pZG7IK99OvI","url":"pZG7IK99OvI","imgUrl":"https://i.ytimg.com/vi/pZG7IK99OvI/hqdefault.jpg","title":"Ludacris - Stand Up  ft. Shawnna","songDuration":[215],"addedAt":1664654746421},{"id":"fWCZse1iwE0","url":"fWCZse1iwE0","imgUrl":"https://i.ytimg.com/vi/fWCZse1iwE0/hqdefault.jpg","title":"Snoop Dogg - Gin And Juice","songDuration":[265],"addedAt":1664654755843},{"id":"sNPnbI1arSE","url":"sNPnbI1arSE","imgUrl":"https://i.ytimg.com/vi/sNPnbI1arSE/hqdefault.jpg","title":"Eminem - My Name Is ","songDuration":[249],"addedAt":1664654990759},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664654763316},{"id":"1WkvomHrfVo","url":"1WkvomHrfVo","imgUrl":"https://i.ytimg.com/vi/1WkvomHrfVo/hqdefault.jpg","title":"Ice Cube - Gangsta Rap Made Me Do It","songDuration":[414],"addedAt":1664654773178},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664654779046},{"id":"nCkblLhs0-4","url":"nCkblLhs0-4","imgUrl":"https://i.ytimg.com/vi/nCkblLhs0-4/hqdefault.jpg","title":"Ice Cube - Ain&#39;t Got No Haters ft. Too Short","songDuration":[212],"addedAt":1664654796157},{"id":"h4UqMyldS7Q","url":"h4UqMyldS7Q","imgUrl":"https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg","title":"Ice Cube - It Was A Good Day","songDuration":[313],"addedAt":1664654802216},{"id":"_FE194VN6c4","url":"_FE194VN6c4","imgUrl":"https://i.ytimg.com/vi/_FE194VN6c4/hqdefault.jpg","title":"Snoop Dogg - Beautiful  ft. Pharrell Williams","songDuration":[322],"addedAt":1664654814885},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664654974828},{"id":"eJO5HU_7_1w","url":"eJO5HU_7_1w","imgUrl":"https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg","title":"Eminem - The Real Slim Shady ","songDuration":[269],"addedAt":1664654978511},{"id":"RjrA-slMoZ4","url":"RjrA-slMoZ4","imgUrl":"https://i.ytimg.com/vi/RjrA-slMoZ4/hqdefault.jpg","title":"Eminem &amp; Snoop Dogg - From The D 2 The LBC [Official Music Video]","songDuration":[287],"addedAt":1664654979917},{"id":"uelHwf8o7_U","url":"uelHwf8o7_U","imgUrl":"https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg","title":"Eminem - Love The Way You Lie ft. Rihanna","songDuration":[267],"addedAt":1664654984691},{"id":"U1th94xR694","url":"U1th94xR694","imgUrl":"https://i.ytimg.com/vi/U1th94xR694/hqdefault.jpg","title":"Eminem - Lose Yourself[1080p].","songDuration":[295],"addedAt":1664654991690}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664654962/biagpt2urilwzoem4nrn.jpg"}}
+10/1/2022, 11:09:59 PM - INFO - socket update-station | {"_id":"63389d1bbd687bcf4d7d530a","name":"Old School","songs":[{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664654675162},{"id":"cDMhlvbOFaM","url":"cDMhlvbOFaM","imgUrl":"https://i.ytimg.com/vi/cDMhlvbOFaM/hqdefault.jpg","title":"50 Cent - 21 Questions  ft. Nate Dogg","songDuration":[259],"addedAt":1664654683287},{"id":"Do5MMmEygsY","url":"Do5MMmEygsY","imgUrl":"https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg","title":"2Pac - Ghetto Gospel","songDuration":[266],"addedAt":1664654694381},{"id":"UDApZhXTpH8","url":"UDApZhXTpH8","imgUrl":"https://i.ytimg.com/vi/UDApZhXTpH8/hqdefault.jpg","title":"50 Cent - P.I.M.P.  ft. Snoop Dogg, G-Unit","songDuration":[299],"addedAt":1664654700929},{"id":"bFLow5StvvU","url":"bFLow5StvvU","imgUrl":"https://i.ytimg.com/vi/bFLow5StvvU/hqdefault.jpg","title":"50 Cent - Window Shopper ","songDuration":[227],"addedAt":1664654709202},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664654715914},{"id":"eXvBjCO19QY","url":"eXvBjCO19QY","imgUrl":"https://i.ytimg.com/vi/eXvBjCO19QY/hqdefault.jpg","title":"2Pac - Changes ft. Talent","songDuration":[271],"addedAt":1664654722831},{"id":"yUZeZNxiD-M","url":"yUZeZNxiD-M","imgUrl":"https://i.ytimg.com/vi/yUZeZNxiD-M/hqdefault.jpg","title":"Get Low","songDuration":[335],"addedAt":1664654728798},{"id":"UZckXxpGNa8","url":"UZckXxpGNa8","imgUrl":"https://i.ytimg.com/vi/UZckXxpGNa8/hqdefault.jpg","title":"T.I. - Bring Em Out ","songDuration":[200],"addedAt":1664654737196},{"id":"XbGs_qK2PQA","url":"XbGs_qK2PQA","imgUrl":"https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg","title":"Eminem - Rap God ","songDuration":[370],"addedAt":1664654981198},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664654974828},{"id":"pZG7IK99OvI","url":"pZG7IK99OvI","imgUrl":"https://i.ytimg.com/vi/pZG7IK99OvI/hqdefault.jpg","title":"Ludacris - Stand Up  ft. Shawnna","songDuration":[215],"addedAt":1664654746421},{"id":"fWCZse1iwE0","url":"fWCZse1iwE0","imgUrl":"https://i.ytimg.com/vi/fWCZse1iwE0/hqdefault.jpg","title":"Snoop Dogg - Gin And Juice","songDuration":[265],"addedAt":1664654755843},{"id":"sNPnbI1arSE","url":"sNPnbI1arSE","imgUrl":"https://i.ytimg.com/vi/sNPnbI1arSE/hqdefault.jpg","title":"Eminem - My Name Is ","songDuration":[249],"addedAt":1664654990759},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664654763316},{"id":"1WkvomHrfVo","url":"1WkvomHrfVo","imgUrl":"https://i.ytimg.com/vi/1WkvomHrfVo/hqdefault.jpg","title":"Ice Cube - Gangsta Rap Made Me Do It","songDuration":[414],"addedAt":1664654773178},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664654779046},{"id":"nCkblLhs0-4","url":"nCkblLhs0-4","imgUrl":"https://i.ytimg.com/vi/nCkblLhs0-4/hqdefault.jpg","title":"Ice Cube - Ain&#39;t Got No Haters ft. Too Short","songDuration":[212],"addedAt":1664654796157},{"id":"h4UqMyldS7Q","url":"h4UqMyldS7Q","imgUrl":"https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg","title":"Ice Cube - It Was A Good Day","songDuration":[313],"addedAt":1664654802216},{"id":"_FE194VN6c4","url":"_FE194VN6c4","imgUrl":"https://i.ytimg.com/vi/_FE194VN6c4/hqdefault.jpg","title":"Snoop Dogg - Beautiful  ft. Pharrell Williams","songDuration":[322],"addedAt":1664654814885},{"id":"eJO5HU_7_1w","url":"eJO5HU_7_1w","imgUrl":"https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg","title":"Eminem - The Real Slim Shady ","songDuration":[269],"addedAt":1664654978511},{"id":"RjrA-slMoZ4","url":"RjrA-slMoZ4","imgUrl":"https://i.ytimg.com/vi/RjrA-slMoZ4/hqdefault.jpg","title":"Eminem &amp; Snoop Dogg - From The D 2 The LBC [Official Music Video]","songDuration":[287],"addedAt":1664654979917},{"id":"uelHwf8o7_U","url":"uelHwf8o7_U","imgUrl":"https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg","title":"Eminem - Love The Way You Lie ft. Rihanna","songDuration":[267],"addedAt":1664654984691},{"id":"U1th94xR694","url":"U1th94xR694","imgUrl":"https://i.ytimg.com/vi/U1th94xR694/hqdefault.jpg","title":"Eminem - Lose Yourself[1080p].","songDuration":[295],"addedAt":1664654991690}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664654962/biagpt2urilwzoem4nrn.jpg"}}
+10/1/2022, 11:10:00 PM - INFO - socket update-station | {"_id":"63389d1bbd687bcf4d7d530a","name":"Old School","songs":[{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664654675162},{"id":"cDMhlvbOFaM","url":"cDMhlvbOFaM","imgUrl":"https://i.ytimg.com/vi/cDMhlvbOFaM/hqdefault.jpg","title":"50 Cent - 21 Questions  ft. Nate Dogg","songDuration":[259],"addedAt":1664654683287},{"id":"Do5MMmEygsY","url":"Do5MMmEygsY","imgUrl":"https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg","title":"2Pac - Ghetto Gospel","songDuration":[266],"addedAt":1664654694381},{"id":"UDApZhXTpH8","url":"UDApZhXTpH8","imgUrl":"https://i.ytimg.com/vi/UDApZhXTpH8/hqdefault.jpg","title":"50 Cent - P.I.M.P.  ft. Snoop Dogg, G-Unit","songDuration":[299],"addedAt":1664654700929},{"id":"bFLow5StvvU","url":"bFLow5StvvU","imgUrl":"https://i.ytimg.com/vi/bFLow5StvvU/hqdefault.jpg","title":"50 Cent - Window Shopper ","songDuration":[227],"addedAt":1664654709202},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664654715914},{"id":"eXvBjCO19QY","url":"eXvBjCO19QY","imgUrl":"https://i.ytimg.com/vi/eXvBjCO19QY/hqdefault.jpg","title":"2Pac - Changes ft. Talent","songDuration":[271],"addedAt":1664654722831},{"id":"yUZeZNxiD-M","url":"yUZeZNxiD-M","imgUrl":"https://i.ytimg.com/vi/yUZeZNxiD-M/hqdefault.jpg","title":"Get Low","songDuration":[335],"addedAt":1664654728798},{"id":"UZckXxpGNa8","url":"UZckXxpGNa8","imgUrl":"https://i.ytimg.com/vi/UZckXxpGNa8/hqdefault.jpg","title":"T.I. - Bring Em Out ","songDuration":[200],"addedAt":1664654737196},{"id":"XbGs_qK2PQA","url":"XbGs_qK2PQA","imgUrl":"https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg","title":"Eminem - Rap God ","songDuration":[370],"addedAt":1664654981198},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664654974828},{"id":"uelHwf8o7_U","url":"uelHwf8o7_U","imgUrl":"https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg","title":"Eminem - Love The Way You Lie ft. Rihanna","songDuration":[267],"addedAt":1664654984691},{"id":"pZG7IK99OvI","url":"pZG7IK99OvI","imgUrl":"https://i.ytimg.com/vi/pZG7IK99OvI/hqdefault.jpg","title":"Ludacris - Stand Up  ft. Shawnna","songDuration":[215],"addedAt":1664654746421},{"id":"fWCZse1iwE0","url":"fWCZse1iwE0","imgUrl":"https://i.ytimg.com/vi/fWCZse1iwE0/hqdefault.jpg","title":"Snoop Dogg - Gin And Juice","songDuration":[265],"addedAt":1664654755843},{"id":"sNPnbI1arSE","url":"sNPnbI1arSE","imgUrl":"https://i.ytimg.com/vi/sNPnbI1arSE/hqdefault.jpg","title":"Eminem - My Name Is ","songDuration":[249],"addedAt":1664654990759},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664654763316},{"id":"1WkvomHrfVo","url":"1WkvomHrfVo","imgUrl":"https://i.ytimg.com/vi/1WkvomHrfVo/hqdefault.jpg","title":"Ice Cube - Gangsta Rap Made Me Do It","songDuration":[414],"addedAt":1664654773178},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664654779046},{"id":"nCkblLhs0-4","url":"nCkblLhs0-4","imgUrl":"https://i.ytimg.com/vi/nCkblLhs0-4/hqdefault.jpg","title":"Ice Cube - Ain&#39;t Got No Haters ft. Too Short","songDuration":[212],"addedAt":1664654796157},{"id":"h4UqMyldS7Q","url":"h4UqMyldS7Q","imgUrl":"https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg","title":"Ice Cube - It Was A Good Day","songDuration":[313],"addedAt":1664654802216},{"id":"_FE194VN6c4","url":"_FE194VN6c4","imgUrl":"https://i.ytimg.com/vi/_FE194VN6c4/hqdefault.jpg","title":"Snoop Dogg - Beautiful  ft. Pharrell Williams","songDuration":[322],"addedAt":1664654814885},{"id":"eJO5HU_7_1w","url":"eJO5HU_7_1w","imgUrl":"https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg","title":"Eminem - The Real Slim Shady ","songDuration":[269],"addedAt":1664654978511},{"id":"RjrA-slMoZ4","url":"RjrA-slMoZ4","imgUrl":"https://i.ytimg.com/vi/RjrA-slMoZ4/hqdefault.jpg","title":"Eminem &amp; Snoop Dogg - From The D 2 The LBC [Official Music Video]","songDuration":[287],"addedAt":1664654979917},{"id":"U1th94xR694","url":"U1th94xR694","imgUrl":"https://i.ytimg.com/vi/U1th94xR694/hqdefault.jpg","title":"Eminem - Lose Yourself[1080p].","songDuration":[295],"addedAt":1664654991690}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664654962/biagpt2urilwzoem4nrn.jpg"}}
+10/1/2022, 11:10:02 PM - INFO - socket update-station | {"_id":"63389d1bbd687bcf4d7d530a","name":"Old School","songs":[{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664654675162},{"id":"cDMhlvbOFaM","url":"cDMhlvbOFaM","imgUrl":"https://i.ytimg.com/vi/cDMhlvbOFaM/hqdefault.jpg","title":"50 Cent - 21 Questions  ft. Nate Dogg","songDuration":[259],"addedAt":1664654683287},{"id":"Do5MMmEygsY","url":"Do5MMmEygsY","imgUrl":"https://i.ytimg.com/vi/Do5MMmEygsY/hqdefault.jpg","title":"2Pac - Ghetto Gospel","songDuration":[266],"addedAt":1664654694381},{"id":"UDApZhXTpH8","url":"UDApZhXTpH8","imgUrl":"https://i.ytimg.com/vi/UDApZhXTpH8/hqdefault.jpg","title":"50 Cent - P.I.M.P.  ft. Snoop Dogg, G-Unit","songDuration":[299],"addedAt":1664654700929},{"id":"bFLow5StvvU","url":"bFLow5StvvU","imgUrl":"https://i.ytimg.com/vi/bFLow5StvvU/hqdefault.jpg","title":"50 Cent - Window Shopper ","songDuration":[227],"addedAt":1664654709202},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664654715914},{"id":"eXvBjCO19QY","url":"eXvBjCO19QY","imgUrl":"https://i.ytimg.com/vi/eXvBjCO19QY/hqdefault.jpg","title":"2Pac - Changes ft. Talent","songDuration":[271],"addedAt":1664654722831},{"id":"yUZeZNxiD-M","url":"yUZeZNxiD-M","imgUrl":"https://i.ytimg.com/vi/yUZeZNxiD-M/hqdefault.jpg","title":"Get Low","songDuration":[335],"addedAt":1664654728798},{"id":"UZckXxpGNa8","url":"UZckXxpGNa8","imgUrl":"https://i.ytimg.com/vi/UZckXxpGNa8/hqdefault.jpg","title":"T.I. - Bring Em Out ","songDuration":[200],"addedAt":1664654737196},{"id":"XbGs_qK2PQA","url":"XbGs_qK2PQA","imgUrl":"https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg","title":"Eminem - Rap God ","songDuration":[370],"addedAt":1664654981198},{"id":"U1th94xR694","url":"U1th94xR694","imgUrl":"https://i.ytimg.com/vi/U1th94xR694/hqdefault.jpg","title":"Eminem - Lose Yourself[1080p].","songDuration":[295],"addedAt":1664654991690},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664654974828},{"id":"uelHwf8o7_U","url":"uelHwf8o7_U","imgUrl":"https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg","title":"Eminem - Love The Way You Lie ft. Rihanna","songDuration":[267],"addedAt":1664654984691},{"id":"pZG7IK99OvI","url":"pZG7IK99OvI","imgUrl":"https://i.ytimg.com/vi/pZG7IK99OvI/hqdefault.jpg","title":"Ludacris - Stand Up  ft. Shawnna","songDuration":[215],"addedAt":1664654746421},{"id":"fWCZse1iwE0","url":"fWCZse1iwE0","imgUrl":"https://i.ytimg.com/vi/fWCZse1iwE0/hqdefault.jpg","title":"Snoop Dogg - Gin And Juice","songDuration":[265],"addedAt":1664654755843},{"id":"sNPnbI1arSE","url":"sNPnbI1arSE","imgUrl":"https://i.ytimg.com/vi/sNPnbI1arSE/hqdefault.jpg","title":"Eminem - My Name Is ","songDuration":[249],"addedAt":1664654990759},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664654763316},{"id":"1WkvomHrfVo","url":"1WkvomHrfVo","imgUrl":"https://i.ytimg.com/vi/1WkvomHrfVo/hqdefault.jpg","title":"Ice Cube - Gangsta Rap Made Me Do It","songDuration":[414],"addedAt":1664654773178},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664654779046},{"id":"nCkblLhs0-4","url":"nCkblLhs0-4","imgUrl":"https://i.ytimg.com/vi/nCkblLhs0-4/hqdefault.jpg","title":"Ice Cube - Ain&#39;t Got No Haters ft. Too Short","songDuration":[212],"addedAt":1664654796157},{"id":"h4UqMyldS7Q","url":"h4UqMyldS7Q","imgUrl":"https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg","title":"Ice Cube - It Was A Good Day","songDuration":[313],"addedAt":1664654802216},{"id":"_FE194VN6c4","url":"_FE194VN6c4","imgUrl":"https://i.ytimg.com/vi/_FE194VN6c4/hqdefault.jpg","title":"Snoop Dogg - Beautiful  ft. Pharrell Williams","songDuration":[322],"addedAt":1664654814885},{"id":"eJO5HU_7_1w","url":"eJO5HU_7_1w","imgUrl":"https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg","title":"Eminem - The Real Slim Shady ","songDuration":[269],"addedAt":1664654978511},{"id":"RjrA-slMoZ4","url":"RjrA-slMoZ4","imgUrl":"https://i.ytimg.com/vi/RjrA-slMoZ4/hqdefault.jpg","title":"Eminem &amp; Snoop Dogg - From The D 2 The LBC [Official Music Video]","songDuration":[287],"addedAt":1664654979917}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664654962/biagpt2urilwzoem4nrn.jpg"}}
+10/1/2022, 11:10:20 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:20 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:24 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:40 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:10:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:00 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:02 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:17 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:19 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:23 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:23 PM - DEBUG - Getting Stations
+10/1/2022, 11:11:23 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:29 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:34 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:35 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:36 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:36 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:38 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:12:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:30:40 PM - DEBUG - Getting Stations
+10/1/2022, 11:32:09 PM - DEBUG - Getting Stations
+10/1/2022, 11:33:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:33:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:33:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:33:48 PM - DEBUG - Getting Stations
+10/1/2022, 11:33:51 PM - DEBUG - Getting Stations
+10/1/2022, 11:35:30 PM - DEBUG - Getting Stations
+10/1/2022, 11:35:30 PM - DEBUG - Getting Stations
+10/1/2022, 11:35:30 PM - DEBUG - Getting Stations
+10/1/2022, 11:36:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:36:04 PM - DEBUG - Getting Stations
+10/1/2022, 11:36:05 PM - DEBUG - Getting Stations
+10/1/2022, 11:36:05 PM - DEBUG - Getting Stations
+10/1/2022, 11:37:17 PM - DEBUG - Getting Stations
+10/1/2022, 11:37:23 PM - DEBUG - Getting Stations
+10/1/2022, 11:37:35 PM - DEBUG - Getting Stations
+10/1/2022, 11:37:37 PM - DEBUG - Getting Stations
+10/1/2022, 11:39:11 PM - DEBUG - Getting Stations
+10/1/2022, 11:39:18 PM - DEBUG - Getting Stations
+10/1/2022, 11:39:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:39:25 PM - DEBUG - Getting Stations
+10/1/2022, 11:40:36 PM - DEBUG - Getting Stations
+10/1/2022, 11:41:16 PM - DEBUG - Getting Stations
+10/1/2022, 11:41:19 PM - DEBUG - Getting Stations
+10/1/2022, 11:41:19 PM - DEBUG - Getting Stations
+10/1/2022, 11:41:20 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:15 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:36 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:38 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:42 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:43 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:47 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:49 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:55 PM - DEBUG - Getting Stations
+10/1/2022, 11:42:55 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:48 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:51 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:53 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:43:55 PM - DEBUG - Getting Stations
+10/1/2022, 11:44:11 PM - DEBUG - Getting Stations
+10/1/2022, 11:44:58 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:02 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:09 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:14 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:45:24 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:08 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:20 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:25 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:29 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:35 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:39 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:43 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:48 PM - INFO - socket update-station | {"_id":"6338a710bd687bcf4d7d530b","name":"Old Rappers","songs":[{"id":"QZXc39hT8t4","url":"QZXc39hT8t4","imgUrl":"https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg","title":"Dr. Dre - The Next Episode  ft. Snoop Dogg, Kurupt, Nate Dogg","songDuration":[198],"addedAt":1664657181937},{"id":"j5-yKhDd64s","url":"j5-yKhDd64s","imgUrl":"https://i.ytimg.com/vi/j5-yKhDd64s/hqdefault.jpg","title":"Eminem - Not Afraid","songDuration":[259],"addedAt":1664657187503},{"id":"GllEDACUbNo","url":"GllEDACUbNo","imgUrl":"https://i.ytimg.com/vi/GllEDACUbNo/hqdefault.jpg","title":"50 Cent - Just A Lil Bit","songDuration":[258],"addedAt":1664657192887},{"id":"ytQ5CYE1VZw","url":"ytQ5CYE1VZw","imgUrl":"https://i.ytimg.com/vi/ytQ5CYE1VZw/hqdefault.jpg","title":"Eminem - Till I Collapse [HD]","songDuration":[299],"addedAt":1664657196985},{"id":"GNqYWkiBHHw","url":"GNqYWkiBHHw","imgUrl":"https://i.ytimg.com/vi/GNqYWkiBHHw/hqdefault.jpg","title":"50 Cent - Disco Inferno ","songDuration":[215],"addedAt":1664657201207},{"id":"6CqXgs-7ico","url":"6CqXgs-7ico","imgUrl":"https://i.ytimg.com/vi/6CqXgs-7ico/hqdefault.jpg","title":"DMX - Where The Hood At?   HQ","songDuration":[277],"addedAt":1664657207200}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":""}}
+10/1/2022, 11:46:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:54 PM - DEBUG - Getting Stations
+10/1/2022, 11:46:57 PM - INFO - socket update-station | {"_id":"6338a710bd687bcf4d7d530b","name":"Old Rappers","songs":[{"id":"QZXc39hT8t4","url":"QZXc39hT8t4","imgUrl":"https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg","title":"Dr. Dre - The Next Episode  ft. Snoop Dogg, Kurupt, Nate Dogg","songDuration":[198],"addedAt":1664657181937},{"id":"j5-yKhDd64s","url":"j5-yKhDd64s","imgUrl":"https://i.ytimg.com/vi/j5-yKhDd64s/hqdefault.jpg","title":"Eminem - Not Afraid","songDuration":[259],"addedAt":1664657187503},{"id":"GllEDACUbNo","url":"GllEDACUbNo","imgUrl":"https://i.ytimg.com/vi/GllEDACUbNo/hqdefault.jpg","title":"50 Cent - Just A Lil Bit","songDuration":[258],"addedAt":1664657192887},{"id":"ytQ5CYE1VZw","url":"ytQ5CYE1VZw","imgUrl":"https://i.ytimg.com/vi/ytQ5CYE1VZw/hqdefault.jpg","title":"Eminem - Till I Collapse [HD]","songDuration":[299],"addedAt":1664657196985},{"id":"GNqYWkiBHHw","url":"GNqYWkiBHHw","imgUrl":"https://i.ytimg.com/vi/GNqYWkiBHHw/hqdefault.jpg","title":"50 Cent - Disco Inferno ","songDuration":[215],"addedAt":1664657201207},{"id":"6CqXgs-7ico","url":"6CqXgs-7ico","imgUrl":"https://i.ytimg.com/vi/6CqXgs-7ico/hqdefault.jpg","title":"DMX - Where The Hood At?   HQ","songDuration":[277],"addedAt":1664657207200},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664657212064},{"id":"QFcv5Ma8u8k","url":"QFcv5Ma8u8k","imgUrl":"https://i.ytimg.com/vi/QFcv5Ma8u8k/hqdefault.jpg","title":"Eminem, Dr. Dre - Forgot About Dre   ft. Hittman","songDuration":[315],"addedAt":1664657216297}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":""}}
+10/1/2022, 11:46:58 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:07 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:11 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:15 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:19 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:22 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:32 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:38 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:41 PM - INFO - socket update-station | {"_id":"6338a710bd687bcf4d7d530b","name":"Old Rappers","songs":[{"id":"QZXc39hT8t4","url":"QZXc39hT8t4","imgUrl":"https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg","title":"Dr. Dre - The Next Episode  ft. Snoop Dogg, Kurupt, Nate Dogg","songDuration":[198],"addedAt":1664657181937},{"id":"j5-yKhDd64s","url":"j5-yKhDd64s","imgUrl":"https://i.ytimg.com/vi/j5-yKhDd64s/hqdefault.jpg","title":"Eminem - Not Afraid","songDuration":[259],"addedAt":1664657187503},{"id":"GllEDACUbNo","url":"GllEDACUbNo","imgUrl":"https://i.ytimg.com/vi/GllEDACUbNo/hqdefault.jpg","title":"50 Cent - Just A Lil Bit","songDuration":[258],"addedAt":1664657192887},{"id":"ytQ5CYE1VZw","url":"ytQ5CYE1VZw","imgUrl":"https://i.ytimg.com/vi/ytQ5CYE1VZw/hqdefault.jpg","title":"Eminem - Till I Collapse [HD]","songDuration":[299],"addedAt":1664657196985},{"id":"GNqYWkiBHHw","url":"GNqYWkiBHHw","imgUrl":"https://i.ytimg.com/vi/GNqYWkiBHHw/hqdefault.jpg","title":"50 Cent - Disco Inferno ","songDuration":[215],"addedAt":1664657201207},{"id":"6CqXgs-7ico","url":"6CqXgs-7ico","imgUrl":"https://i.ytimg.com/vi/6CqXgs-7ico/hqdefault.jpg","title":"DMX - Where The Hood At?   HQ","songDuration":[277],"addedAt":1664657207200},{"id":"_Yhyp-_hX2s","url":"_Yhyp-_hX2s","imgUrl":"https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg","title":"Eminem - Lose Yourself [HD]","songDuration":[324],"addedAt":1664657212064},{"id":"QFcv5Ma8u8k","url":"QFcv5Ma8u8k","imgUrl":"https://i.ytimg.com/vi/QFcv5Ma8u8k/hqdefault.jpg","title":"Eminem, Dr. Dre - Forgot About Dre   ft. Hittman","songDuration":[315],"addedAt":1664657216297},{"id":"SRcnnId15BA","url":"SRcnnId15BA","imgUrl":"https://i.ytimg.com/vi/SRcnnId15BA/hqdefault.jpg","title":"50 Cent - Candy Shop  ft. Olivia","songDuration":[250],"addedAt":1664657221504},{"id":"fPO76Jlnz6c","url":"fPO76Jlnz6c","imgUrl":"https://i.ytimg.com/vi/fPO76Jlnz6c/hqdefault.jpg","title":"Coolio - Gangsta&#39;s Paradise  [Official Music Video]","songDuration":[257],"addedAt":1664657225502},{"id":"_CL6n0FJZpk","url":"_CL6n0FJZpk","imgUrl":"https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg","title":"Dr. Dre - Still D.R.E.  ft. Snoop Dogg","songDuration":[291],"addedAt":1664657229159},{"id":"2IH8tNQAzSs","url":"2IH8tNQAzSs","imgUrl":"https://i.ytimg.com/vi/2IH8tNQAzSs/hqdefault.jpg","title":"Lil Wayne - Lollipop ft. Static  ft. Static","songDuration":[302],"addedAt":1664657232998},{"id":"5lfzarWWy4A","url":"5lfzarWWy4A","imgUrl":"https://i.ytimg.com/vi/5lfzarWWy4A/hqdefault.jpg","title":"Lloyd Banks - Hands Up  ft. 50 Cent","songDuration":[243],"addedAt":1664657236906},{"id":"AoA-ByjIf2M","url":"AoA-ByjIf2M","imgUrl":"https://i.ytimg.com/vi/AoA-ByjIf2M/hqdefault.jpg","title":"Lil Jon - Snap Yo Fingers  ","songDuration":[273],"addedAt":1664657240355},{"id":"ajmI1P3r1w4","url":"ajmI1P3r1w4","imgUrl":"https://i.ytimg.com/vi/ajmI1P3r1w4/hqdefault.jpg","title":"Terror Squad - Lean Back  ft. Fat Joe, Remy Ma","songDuration":[283],"addedAt":1664657243731},{"id":"IYH7_GzP4Tg","url":"IYH7_GzP4Tg","imgUrl":"https://i.ytimg.com/vi/IYH7_GzP4Tg/hqdefault.jpg","title":"Lil Jon &amp; The East Side Boyz - Get Low  ","songDuration":[271],"addedAt":1664657253475},{"id":"T6QKqFPRZSA","url":"T6QKqFPRZSA","imgUrl":"https://i.ytimg.com/vi/T6QKqFPRZSA/hqdefault.jpg","title":"Lauryn Hill - Doo-Wop  ","songDuration":[237],"addedAt":1664657260159}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":""}}
+10/1/2022, 11:47:42 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:50 PM - DEBUG - Getting Stations
+10/1/2022, 11:47:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:48:47 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:05 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:05 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:06 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:06 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:21 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:28 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:28 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:29 PM - DEBUG - Getting Stations
+10/1/2022, 11:49:31 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:18 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:41 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:44 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:49 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:53 PM - DEBUG - Getting Stations
+10/1/2022, 11:50:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:51:05 PM - DEBUG - Getting Stations
+10/1/2022, 11:51:12 PM - DEBUG - Getting Stations
+10/1/2022, 11:51:46 PM - DEBUG - Getting Stations
+10/1/2022, 11:51:52 PM - DEBUG - Getting Stations
+10/1/2022, 11:51:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:03 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:08 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:13 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:40 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:48 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:57 PM - DEBUG - Getting Stations
+10/1/2022, 11:52:59 PM - DEBUG - Getting Stations
+10/1/2022, 11:54:16 PM - DEBUG - Getting Stations
+10/1/2022, 11:54:16 PM - DEBUG - Getting Stations
+10/1/2022, 11:54:16 PM - DEBUG - Getting Stations
+10/1/2022, 11:54:17 PM - DEBUG - Getting Stations
+10/1/2022, 11:54:20 PM - DEBUG - Getting Stations
+10/1/2022, 11:59:33 PM - DEBUG - Getting Stations
+10/1/2022, 11:59:43 PM - DEBUG - Getting Stations
+10/1/2022, 11:59:45 PM - DEBUG - Getting Stations
+10/1/2022, 11:59:49 PM - DEBUG - Getting Stations
+10/2/2022, 12:02:33 AM - DEBUG - Getting Stations
+10/2/2022, 12:02:33 AM - DEBUG - Getting Stations
+10/2/2022, 12:02:34 AM - DEBUG - Getting Stations
+10/2/2022, 12:03:03 AM - DEBUG - Getting Stations
+10/2/2022, 12:05:39 AM - DEBUG - Getting Stations
+10/2/2022, 12:05:39 AM - DEBUG - Getting Stations
+10/2/2022, 12:05:40 AM - DEBUG - Getting Stations
+10/2/2022, 12:41:39 AM - DEBUG - Getting Stations
+10/2/2022, 12:41:47 AM - DEBUG - Getting Stations
+10/2/2022, 12:41:47 AM - DEBUG - Getting Stations
+10/2/2022, 12:41:48 AM - DEBUG - Getting Stations
+10/2/2022, 12:45:15 AM - DEBUG - Getting Stations
+10/2/2022, 12:46:02 AM - DEBUG - Getting Stations
+10/2/2022, 12:46:02 AM - DEBUG - Getting Stations
+10/2/2022, 12:46:02 AM - DEBUG - Getting Stations
+10/2/2022, 12:49:15 AM - DEBUG - Getting Stations
+10/2/2022, 12:52:00 AM - DEBUG - Getting Stations
+10/2/2022, 12:52:01 AM - DEBUG - Getting Stations
+10/2/2022, 12:52:01 AM - DEBUG - Getting Stations
+10/2/2022, 12:52:21 AM - DEBUG - Getting Stations
+10/2/2022, 12:54:18 AM - DEBUG - Getting Stations
+10/2/2022, 12:54:19 AM - DEBUG - Getting Stations
+10/2/2022, 12:54:19 AM - DEBUG - Getting Stations
+10/2/2022, 12:54:24 AM - DEBUG - Getting Stations
+10/2/2022, 12:56:41 AM - DEBUG - Getting Stations
+10/2/2022, 1:14:55 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:16:04 AM - DEBUG - Getting Stations
+10/2/2022, 1:16:08 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:16:09 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684},{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:16:11 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:18:26 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:18:27 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:18:46 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:19:15 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684},{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:20:02 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458},{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:20:05 AM - INFO - socket update-station | {"_id":"6338b791bd687bcf4d7d530e","name":"Reut playlist","songs":[{"id":"-ZY0ATVkjDM","url":"-ZY0ATVkjDM","imgUrl":"https://i.ytimg.com/vi/-ZY0ATVkjDM/hqdefault.jpg","title":"רביד פלוטניק - למעלה! / Ravid Plotnik - Way Up","songDuration":[170],"addedAt":1664662565684},{"id":"bnVUHWCynig","url":"bnVUHWCynig","imgUrl":"https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg","title":"Beyoncé - Halo","songDuration":[225],"addedAt":1664661406896},{"id":"k4YRWT_Aldo","url":"k4YRWT_Aldo","imgUrl":"https://i.ytimg.com/vi/k4YRWT_Aldo/hqdefault.jpg","title":"Beyoncé - 7/11","songDuration":[217],"addedAt":1664661405320},{"id":"p1JPKLa-Ofc","url":"p1JPKLa-Ofc","imgUrl":"https://i.ytimg.com/vi/p1JPKLa-Ofc/hqdefault.jpg","title":"Beyoncé - Drunk in Love  ft. JAY Z","songDuration":[382],"addedAt":1664661406027},{"id":"UdkJ3u_TA_U","url":"UdkJ3u_TA_U","imgUrl":"https://i.ytimg.com/vi/UdkJ3u_TA_U/hqdefault.jpg","title":"Beyoncé - BREAK MY SOUL ","songDuration":[276],"addedAt":1664661406458}],"tags":[],"likedByUsers":[],"createdBy":{"fullname":"Guest","artistImg":"","imgUrl":"http://res.cloudinary.com/diko7zq8k/image/upload/v1664661718/msqqsvxygydyfw4eywrp.jpg"}}
+10/2/2022, 1:21:16 AM - DEBUG - Getting Stations
+10/2/2022, 1:21:42 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:21:43 AM - DEBUG - Getting Stations
+10/2/2022, 1:21:43 AM - DEBUG - Getting Stations
+10/2/2022, 1:21:44 AM - DEBUG - Getting Stations
+10/2/2022, 1:21:44 AM - DEBUG - Getting Stations
+10/2/2022, 1:21:45 AM - DEBUG - Getting Stations
+10/2/2022, 1:22:11 AM - DEBUG - Getting Stations
+10/2/2022, 1:22:13 AM - DEBUG - Getting Stations
+10/2/2022, 1:22:59 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:19 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:19 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:20 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:23 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:44 AM - DEBUG - Getting Stations
+10/2/2022, 1:24:46 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:16 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:24 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:29:24 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:25 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:30 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:30 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:31 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:31 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:36 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:29:36 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:36 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:42 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:29:42 AM - DEBUG - Getting Stations
+10/2/2022, 1:29:43 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:04 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:30:04 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:05 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:30:05 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:05 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:49 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:50 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:50 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:51 AM - DEBUG - Getting Stations
+10/2/2022, 1:30:58 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:00 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:12 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:28 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:31:29 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:29 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:33 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:31:33 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:33 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:36 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:31:36 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:37 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:39 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:31:39 AM - DEBUG - Getting Stations
+10/2/2022, 1:31:40 AM - DEBUG - Getting Stations
+10/2/2022, 1:32:14 AM - DEBUG - Getting Stations
+10/2/2022, 1:32:15 AM - DEBUG - Getting Stations
+10/2/2022, 1:32:15 AM - DEBUG - Getting Stations
+10/2/2022, 1:35:43 AM - DEBUG - Getting Stations
+10/2/2022, 1:38:20 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:38:26 AM - DEBUG - Getting Stations
+10/2/2022, 1:38:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:38:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:38:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:31 AM - INFO - Setting socket.userId = gjC6c for socket [id: 51CqT1ek6JYFiZDdAAA3]
+10/2/2022, 1:40:31 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:32 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:32 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:39 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:39 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:40 AM - DEBUG - Getting Stations
+10/2/2022, 1:40:42 AM - INFO - Removing socket.userId for socket [id: 51CqT1ek6JYFiZDdAAA3]
+10/2/2022, 1:40:59 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:00 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:00 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:04 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:05 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:05 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:06 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:06 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:07 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:07 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:08 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:08 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:09 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:09 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:10 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:10 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:10 AM - DEBUG - Getting Stations
+10/2/2022, 1:41:11 AM - DEBUG - Getting Stations
+10/2/2022, 1:42:48 AM - DEBUG - Getting Stations
+10/2/2022, 1:42:49 AM - DEBUG - Getting Stations
+10/2/2022, 1:42:49 AM - DEBUG - Getting Stations
+10/2/2022, 1:43:55 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:43:56 AM - DEBUG - Getting Stations
+10/2/2022, 1:43:57 AM - INFO - Setting socket.userId = u101 for socket [id: oZh43KzINMwTRxewAAA5]
+10/2/2022, 1:43:57 AM - DEBUG - Getting Stations
+10/2/2022, 1:43:57 AM - DEBUG - Getting Stations
+10/2/2022, 1:43:58 AM - DEBUG - Getting Stations
