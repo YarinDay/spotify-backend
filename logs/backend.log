@@ -4321,3 +4321,58 @@
 10/2/2022, 12:20:53 PM - DEBUG - Getting Stations
 10/2/2022, 12:20:53 PM - DEBUG - Getting Stations
 10/2/2022, 12:21:26 PM - DEBUG - Getting Stations
+10/2/2022, 2:06:59 PM - INFO - Server is running on port: 3030
+10/2/2022, 2:07:53 PM - DEBUG - Getting Stations
+10/2/2022, 2:07:55 PM - DEBUG - Getting Stations
+10/2/2022, 2:07:55 PM - DEBUG - Getting Stations
+10/2/2022, 2:07:56 PM - DEBUG - Getting Stations
+10/2/2022, 2:10:57 PM - DEBUG - Getting Stations
+10/2/2022, 2:17:28 PM - DEBUG - Getting Stations
+10/2/2022, 2:17:33 PM - DEBUG - Getting Stations
+10/2/2022, 2:17:34 PM - DEBUG - Getting Stations
+10/2/2022, 2:20:56 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 2:20:57 PM - DEBUG - Getting Stations
+10/2/2022, 2:20:58 PM - DEBUG - Getting Stations
+10/2/2022, 2:21:51 PM - INFO - Setting socket.userId = uOJ23 for socket [id: n61O3hznn5g-tcOEAAAD]
+10/2/2022, 2:21:51 PM - DEBUG - Getting Stations
+10/2/2022, 2:21:51 PM - DEBUG - Getting Stations
+10/2/2022, 2:21:52 PM - DEBUG - Getting Stations
+10/2/2022, 2:23:31 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 2:23:32 PM - DEBUG - Getting Stations
+10/2/2022, 2:23:32 PM - INFO - Setting socket.userId = uOJ23 for socket [id: qmYlEsfz_CAzhctPAAAF]
+10/2/2022, 2:23:32 PM - DEBUG - Getting Stations
+10/2/2022, 2:23:33 PM - DEBUG - Getting Stations
+10/2/2022, 2:23:33 PM - DEBUG - Getting Stations
+10/2/2022, 2:25:54 PM - DEBUG - auth.service - signup with username: Harmony, fullname: By Harmony
+10/2/2022, 2:25:54 PM - ERROR - Failed to signup Missing required signup information
+10/2/2022, 2:26:08 PM - DEBUG - auth.service - signup with username: Harmony, fullname: By Harmony
+10/2/2022, 2:26:08 PM - DEBUG - userExist null
+10/2/2022, 2:26:09 PM - DEBUG - auth.service - login with username: Harmony
+10/2/2022, 2:26:09 PM - INFO - User signup: | {"_id":"63397550884a90697bffc38f","username":"Harmony","fullname":"By Harmony"}
+10/2/2022, 2:26:20 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:49 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:49 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 2:28:50 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:50 PM - INFO - Setting socket.userId = uOJ23 for socket [id: q6BoZ6zTKe4IHQE8AAAH]
+10/2/2022, 2:28:50 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:57 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:58 PM - DEBUG - Getting Stations
+10/2/2022, 2:28:58 PM - DEBUG - Getting Stations
+10/2/2022, 2:36:11 PM - DEBUG - Getting Stations
+10/2/2022, 2:36:14 PM - DEBUG - Getting Stations
+10/2/2022, 2:42:30 PM - DEBUG - Getting Stations
+10/2/2022, 2:45:07 PM - INFO - Removing socket.userId for socket [id: q6BoZ6zTKe4IHQE8AAAH]
+10/2/2022, 2:45:54 PM - DEBUG - Getting Stations
+10/2/2022, 2:45:54 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:38 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:38 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:39 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:45 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:46 PM - DEBUG - Getting Stations
+10/2/2022, 2:50:46 PM - DEBUG - Getting Stations
+10/2/2022, 3:01:50 PM - INFO - Removing socket.userId for socket [id: q6BoZ6zTKe4IHQE8AAAH]
+10/2/2022, 3:01:54 PM - DEBUG - Getting Stations
+10/2/2022, 3:02:26 PM - DEBUG - Getting Stations
+10/2/2022, 3:02:31 PM - DEBUG - Getting Stations
+10/2/2022, 3:05:22 PM - DEBUG - Getting Stations
+10/2/2022, 3:05:51 PM - INFO - Server is running on port: 3030
