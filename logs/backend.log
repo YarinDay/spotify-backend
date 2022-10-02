@@ -4108,3 +4108,216 @@
 10/2/2022, 1:43:57 AM - DEBUG - Getting Stations
 10/2/2022, 1:43:57 AM - DEBUG - Getting Stations
 10/2/2022, 1:43:58 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:08 AM - INFO - Server is running on port: 3030
+10/2/2022, 1:48:11 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:12 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:12 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:13 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:14 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:16 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:16 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:16 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:17 AM - DEBUG - Getting Stations
+10/2/2022, 1:48:19 AM - INFO - socket update-station | {"_id":"6334ac1dd4e11f1659f820fe","name":"Honestly, Nevermind","tags":["Honestly, Nevermind","Pop","HardCoded","All"],"createdBy":{"_id":"32erdwwfg23rewf","fullname":"Drake","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","artistImg":"https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9"},"likedByUsers":["{minimal-user}","{minimal-user}"],"songs":[{"id":"qweartfhgsxfdc","title":"Text Go Green","url":"kFXHPfI2JoI","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"195"},{"id":"'t4retrt5gter","title":"Currents","url":"1puG2H1QOBA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"250"},{"id":"g31vewrd","title":"Sticky","url":"AnZcWgXZOKM","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"211"},{"id":"qf3ewgsret5r","title":"Flight's Booked","url":"hb24kZ0fiEA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"424"},{"id":"231eqwrf","title":"Falling Back","url":"rJi7GobzRgY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"200"},{"id":"2t34fvht23v","title":"Massive","url":"ay1l_u6vltY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"232","_id":"stoBX"},{"id":"utjyrhtg1ss2b","title":"A Keeper","url":"RaskP_FC9VA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"400"},{"id":"utasdasqdb","title":"Calling My Name","url":"fhumS5MsRyE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"cqtbvwy34vwt","title":"Overdrive","url":"p53kGYHvDn0","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"242"},{"id":"qctwvh54vq3trgwv","title":"Tie That Binds","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"yutmyrntbfrs2","title":"Down Hill","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"},{"id":"cqt4tvcrwqqehgv","title":"Jimmy Cooks","url":"V7UgPHjN9qE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"}],"addedAt":"166655343521"}
+10/2/2022, 1:48:21 AM - INFO - socket update-station | {"_id":"6334ac1dd4e11f1659f820fe","name":"Honestly, Nevermind","tags":["Honestly, Nevermind","Pop","HardCoded","All"],"createdBy":{"_id":"32erdwwfg23rewf","fullname":"Drake","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","artistImg":"https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9"},"likedByUsers":["{minimal-user}","{minimal-user}"],"songs":[{"id":"qweartfhgsxfdc","title":"Text Go Green","url":"kFXHPfI2JoI","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"195"},{"id":"g31vewrd","title":"Sticky","url":"AnZcWgXZOKM","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"211"},{"id":"'t4retrt5gter","title":"Currents","url":"1puG2H1QOBA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"250"},{"id":"qf3ewgsret5r","title":"Flight's Booked","url":"hb24kZ0fiEA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"424"},{"id":"231eqwrf","title":"Falling Back","url":"rJi7GobzRgY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"200"},{"id":"2t34fvht23v","title":"Massive","url":"ay1l_u6vltY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"232","_id":"stoBX"},{"id":"utjyrhtg1ss2b","title":"A Keeper","url":"RaskP_FC9VA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"400"},{"id":"utasdasqdb","title":"Calling My Name","url":"fhumS5MsRyE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"cqtbvwy34vwt","title":"Overdrive","url":"p53kGYHvDn0","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"242"},{"id":"qctwvh54vq3trgwv","title":"Tie That Binds","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"yutmyrntbfrs2","title":"Down Hill","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"},{"id":"cqt4tvcrwqqehgv","title":"Jimmy Cooks","url":"V7UgPHjN9qE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"}],"addedAt":"166655343521"}
+10/2/2022, 1:48:21 AM - INFO - socket update-station | {"_id":"6334ac1dd4e11f1659f820fe","name":"Honestly, Nevermind","tags":["Honestly, Nevermind","Pop","HardCoded","All"],"createdBy":{"_id":"32erdwwfg23rewf","fullname":"Drake","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","artistImg":"https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9"},"likedByUsers":["{minimal-user}","{minimal-user}"],"songs":[{"id":"qweartfhgsxfdc","title":"Text Go Green","url":"kFXHPfI2JoI","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"195"},{"id":"g31vewrd","title":"Sticky","url":"AnZcWgXZOKM","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"211"},{"id":"qf3ewgsret5r","title":"Flight's Booked","url":"hb24kZ0fiEA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"424"},{"id":"'t4retrt5gter","title":"Currents","url":"1puG2H1QOBA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"250"},{"id":"231eqwrf","title":"Falling Back","url":"rJi7GobzRgY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"200"},{"id":"2t34fvht23v","title":"Massive","url":"ay1l_u6vltY","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"232","_id":"stoBX"},{"id":"utjyrhtg1ss2b","title":"A Keeper","url":"RaskP_FC9VA","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"400"},{"id":"utasdasqdb","title":"Calling My Name","url":"fhumS5MsRyE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"cqtbvwy34vwt","title":"Overdrive","url":"p53kGYHvDn0","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"242"},{"id":"qctwvh54vq3trgwv","title":"Tie That Binds","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"322"},{"id":"yutmyrntbfrs2","title":"Down Hill","url":"oezuRcSv4i8","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"},{"id":"cqt4tvcrwqqehgv","title":"Jimmy Cooks","url":"V7UgPHjN9qE","imgUrl":"https://upload.wikimedia.org/wikipedia/he/8/8b/HONESTLY_NEVERMIND.jpg","addedBy":{},"addedAt":"1655414932229","songDuration":"122"}],"addedAt":"166655343521"}
+10/2/2022, 1:49:06 AM - DEBUG - Getting Stations
+10/2/2022, 1:49:07 AM - DEBUG - Getting Stations
+10/2/2022, 1:49:07 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:25 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:51:26 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:27 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:50 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:51:51 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:51 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:52 AM - DEBUG - Getting Stations
+10/2/2022, 1:51:52 AM - DEBUG - Getting Stations
+10/2/2022, 1:57:46 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 1:57:47 AM - DEBUG - Getting Stations
+10/2/2022, 1:57:48 AM - DEBUG - Getting Stations
+10/2/2022, 1:57:48 AM - DEBUG - Getting Stations
+10/2/2022, 1:57:48 AM - DEBUG - Getting Stations
+10/2/2022, 1:57:58 AM - DEBUG - Getting Stations
+10/2/2022, 1:58:04 AM - DEBUG - Getting Stations
+10/2/2022, 1:58:07 AM - DEBUG - Getting Stations
+10/2/2022, 1:58:20 AM - DEBUG - Getting Stations
+10/2/2022, 1:58:24 AM - DEBUG - Getting Stations
+10/2/2022, 1:58:34 AM - DEBUG - Getting Stations
+10/2/2022, 10:47:06 AM - INFO - Server is running on port: 3030
+10/2/2022, 10:47:40 AM - DEBUG - Getting Stations
+10/2/2022, 10:47:41 AM - DEBUG - Getting Stations
+10/2/2022, 10:47:42 AM - DEBUG - Getting Stations
+10/2/2022, 10:47:42 AM - DEBUG - Getting Stations
+10/2/2022, 10:52:43 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 10:52:44 AM - DEBUG - Getting Stations
+10/2/2022, 10:52:44 AM - DEBUG - Getting Stations
+10/2/2022, 10:52:45 AM - DEBUG - Getting Stations
+10/2/2022, 10:52:45 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:49 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:49 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:50 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:51 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:52 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:52 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:53 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:54 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:56 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:57 AM - DEBUG - Getting Stations
+10/2/2022, 10:55:57 AM - DEBUG - Getting Stations
+10/2/2022, 10:56:00 AM - DEBUG - Getting Stations
+10/2/2022, 10:56:01 AM - DEBUG - Getting Stations
+10/2/2022, 10:56:01 AM - DEBUG - Getting Stations
+10/2/2022, 10:57:27 AM - DEBUG - Getting Stations
+10/2/2022, 10:57:28 AM - DEBUG - Getting Stations
+10/2/2022, 10:57:29 AM - DEBUG - Getting Stations
+10/2/2022, 10:57:30 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:07 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:16 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:16 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:17 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:18 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:23 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:24 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:25 AM - DEBUG - Getting Stations
+10/2/2022, 10:59:25 AM - DEBUG - Getting Stations
+10/2/2022, 11:00:51 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:05 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:06 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:06 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:09 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:49 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:52 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:53 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:53 AM - DEBUG - Getting Stations
+10/2/2022, 11:01:56 AM - DEBUG - Getting Stations
+10/2/2022, 11:02:40 AM - DEBUG - Getting Stations
+10/2/2022, 11:02:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:02:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:03:21 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:22 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:22 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:23 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:33 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:35 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:36 AM - DEBUG - Getting Stations
+10/2/2022, 11:04:36 AM - DEBUG - Getting Stations
+10/2/2022, 11:05:25 AM - DEBUG - Getting Stations
+10/2/2022, 11:05:34 AM - DEBUG - Getting Stations
+10/2/2022, 11:05:35 AM - DEBUG - Getting Stations
+10/2/2022, 11:05:35 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:23 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:38 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:39 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:39 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:50 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:51 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:52 AM - DEBUG - Getting Stations
+10/2/2022, 11:08:53 AM - DEBUG - Getting Stations
+10/2/2022, 11:09:04 AM - DEBUG - Getting Stations
+10/2/2022, 11:09:05 AM - DEBUG - Getting Stations
+10/2/2022, 11:09:05 AM - DEBUG - Getting Stations
+10/2/2022, 11:09:07 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:08 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:13:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:09 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:11 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:21 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:22 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:22 AM - DEBUG - Getting Stations
+10/2/2022, 11:13:24 AM - DEBUG - Getting Stations
+10/2/2022, 11:14:07 AM - DEBUG - Getting Stations
+10/2/2022, 11:14:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:14:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:14:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:34 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:35 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:35 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:42 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:42 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:43 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:44 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:56 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:56 AM - DEBUG - Getting Stations
+10/2/2022, 11:15:57 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:40 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:17:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:42 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:42 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:43 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:48 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:49 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:50 AM - DEBUG - Getting Stations
+10/2/2022, 11:17:50 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:01 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:03 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:06 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:11 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:11 AM - DEBUG - Getting Stations
+10/2/2022, 11:21:12 AM - DEBUG - Getting Stations
+10/2/2022, 11:23:46 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:23:47 AM - DEBUG - Getting Stations
+10/2/2022, 11:23:47 AM - DEBUG - Getting Stations
+10/2/2022, 11:23:48 AM - DEBUG - Getting Stations
+10/2/2022, 11:23:48 AM - DEBUG - Getting Stations
+10/2/2022, 11:24:08 AM - DEBUG - Getting Stations
+10/2/2022, 11:29:46 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:29:47 AM - DEBUG - Getting Stations
+10/2/2022, 11:29:47 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:09 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:42:10 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:11 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:16 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:42:17 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:18 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:24 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:42:25 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:26 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:27 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:42:28 AM - DEBUG - Getting Stations
+10/2/2022, 11:42:29 AM - DEBUG - Getting Stations
+10/2/2022, 11:47:39 AM - DEBUG - Getting Stations
+10/2/2022, 11:47:46 AM - DEBUG - Getting Stations
+10/2/2022, 11:48:09 AM - DEBUG - Getting Stations
+10/2/2022, 11:52:15 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:52:16 AM - DEBUG - Getting Stations
+10/2/2022, 11:52:16 AM - DEBUG - Getting Stations
+10/2/2022, 11:52:19 AM - DEBUG - Getting Stations
+10/2/2022, 11:56:40 AM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 11:56:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:56:41 AM - DEBUG - Getting Stations
+10/2/2022, 11:56:46 AM - DEBUG - Getting Stations
+10/2/2022, 11:56:55 AM - DEBUG - Getting Stations
+10/2/2022, 12:03:06 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 12:03:07 PM - DEBUG - Getting Stations
+10/2/2022, 12:03:07 PM - DEBUG - Getting Stations
+10/2/2022, 12:07:01 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 12:07:02 PM - DEBUG - Getting Stations
+10/2/2022, 12:07:03 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:28 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:29 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:29 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:36 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:52 PM - DEBUG - Getting Stations
+10/2/2022, 12:14:57 PM - DEBUG - Getting Stations
+10/2/2022, 12:15:06 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 12:15:07 PM - DEBUG - Getting Stations
+10/2/2022, 12:15:07 PM - DEBUG - Getting Stations
+10/2/2022, 12:15:08 PM - DEBUG - Getting Stations
+10/2/2022, 12:15:08 PM - DEBUG - Getting Stations
+10/2/2022, 12:20:51 PM - INFO - Socket disconnected [id: undefined]
+10/2/2022, 12:20:51 PM - DEBUG - Getting Stations
+10/2/2022, 12:20:52 PM - DEBUG - Getting Stations
+10/2/2022, 12:20:53 PM - DEBUG - Getting Stations
+10/2/2022, 12:20:53 PM - DEBUG - Getting Stations
+10/2/2022, 12:21:26 PM - DEBUG - Getting Stations
