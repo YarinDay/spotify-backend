@@ -26,9 +26,7 @@ async function query(filterBy) {
     //     criteria.inStock = { $inStock: inStock }
     // }
     try {
-        console.log('query')
         const collection = await dbService.getCollection('station')
-        console.log('collection :', collection)
         const stations = await collection.find({}).toArray()
         return stations
     } catch (err) {
